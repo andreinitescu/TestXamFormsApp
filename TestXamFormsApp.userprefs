@@ -1,40 +1,40 @@
 ﻿<Properties StartupItem="Droid\TestXamFormsApp.Droid.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.R32CB027R5B" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Droid\Renderers\BorderRenderer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestXamFormsApp\Views\MainPage.xaml">
     <Files>
       <File FileName="Droid\MainActivity.cs" Line="4" Column="4" />
-      <File FileName="TestXamFormsApp\Views\MainPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="Droid\Renderers\BorderRenderer.cs" Line="4" Column="4" />
-      <File FileName="TestXamFormsApp\packages.config" Line="12" Column="12" />
+      <File FileName="TestXamFormsApp\Views\MainPage.xaml.cs" Line="38" Column="38" />
+      <File FileName="Droid\Renderers\BorderRenderer.cs" Line="3" Column="3" />
+      <File FileName="TestXamFormsApp\packages.config" Line="1" Column="1" />
       <File FileName="TestXamFormsApp\Controls\Border.cs" Line="1" Column="1" />
+      <File FileName="Droid\Resources\drawable\shape.xml" Line="1" Column="1" />
+      <File FileName="TestXamFormsApp\Views\MainPage.xaml" Line="58" Column="58" />
+      <File FileName="C:\Users\Andrei\Desktop\New folder (8)\shape.xml" Line="1" Column="1" />
+      <File FileName="Droid\TestActivity.cs" Line="2" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State expanded="True" selected="True">
+        <State expanded="True">
+          <Option id="ShowAllFiles" value="True" />
           <Node name="TestXamFormsApp" expanded="True">
-            <Node name="References" expanded="True">
-              <Node name="From Packages" expanded="True" />
-            </Node>
             <Node name="Packages" expanded="True" />
-            <Node name="Controls" expanded="True" />
-            <Node name="Properties" expanded="True" />
             <Node name="Views" expanded="True">
-              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
             </Node>
           </Node>
           <Node name="TestXamFormsApp.Droid" expanded="True">
-            <Node name="References" expanded="True">
-              <Node name="From Packages" expanded="True" />
-            </Node>
-            <Node name="Packages" expanded="True" />
             <Node name="Assets" expanded="True" />
             <Node name="Properties" expanded="True" />
             <Node name="Renderers" expanded="True" />
+            <Node name="Resources" expanded="True">
+              <Node name="drawable" expanded="True" />
+              <Node name="drawable-hdpi" expanded="True" />
+              <Node name="drawable-xhdpi" expanded="True" />
+              <Node name="drawable-xxhdpi" expanded="True" />
+              <Node name="layout" expanded="True" />
+            </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
@@ -45,10 +45,12 @@
       <Breakpoint file="D:\Projects\TestXamFormsApp\Droid\Renderers\BorderRenderer2.cs" line="134" column="29" />
       <Breakpoint file="D:\Projects\TestXamFormsApp\Droid\Renderers\BorderRenderer2.cs" line="148" column="35" />
       <Breakpoint file="D:\Projects\TestXamFormsApp\Droid\Renderers\BorderRenderer (copy).cs" line="19" column="50" />
-      <Breakpoint file="D:\Projects\TestXamFormsApp\Droid\TestActivity.cs" line="37" column="4" />
-      <Breakpoint file="D:\Projects\TestXamFormsApp\Droid\TestActivity.cs" line="33" column="4" />
+      <Breakpoint file="D:\Projects\TestXamFormsApp\Droid\Renderers\BorderRenderer.cs" line="47" column="26" />
+      <Breakpoint file="D:\Projects\TestXamFormsApp\Droid\Renderers\BorderRenderer.cs" line="167" column="54" />
+      <Breakpoint file="D:\Projects\TestXamFormsApp\Droid\Renderers\BorderRenderer.cs" line="162" column="62" />
+      <Breakpoint file="D:\Projects\TestXamFormsApp\Droid\Renderers\BorderRenderer.cs" line="78" column="28" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.TestXamFormsApp.Droid MonoForAntroid.PreferredDevice="Nexus 4" />
+  <MonoDevelop.Ide.ItemProperties.TestXamFormsApp.Droid MonoForAntroid.PreferredDevice="Nexus 4" AndroidDesignerPreferredDevice="Nexus 4" />
 </Properties>

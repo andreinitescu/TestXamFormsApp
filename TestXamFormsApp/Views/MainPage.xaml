@@ -4,10 +4,12 @@
 	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
 	x:Class="TestXamFormsApp.Views.MainPage"
 	xmlns:controls="clr-namespace:TestXamFormsApp.Controls;assembly=TestXamFormsApp"
-	BackgroundColor="White" Padding="100">
+	BackgroundColor="Red" 
+	Padding="10">
 	<ContentPage.Content>
-		<controls:Border>
-			<Image Source="icon" Aspect="Fill" />
-		</controls:Border>
+		<controls:Border Padding="0" BackgroundColor="Green" StrokeThickness="10">
+			<Label Text="1234567890" />
+		</controls:Border> 
 	</ContentPage.Content>
 </ContentPage>
+
